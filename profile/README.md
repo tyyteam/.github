@@ -13,4 +13,4 @@
 
 We aim at poring seL4 and related repos to Loongarch.
 
-For seL4test project, see la-seL4`s readme for more info about this project.
+For seL4test project, see [la-seL4](https://github.com/tyyteam/la-seL4) repo for more info.
